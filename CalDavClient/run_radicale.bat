@@ -1,0 +1,1 @@
+start python .\Radicale\radicale.py --config=.\Radicale\radicale_config.txt --debug
